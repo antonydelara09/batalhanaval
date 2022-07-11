@@ -1,0 +1,3 @@
+Em cada grelha o jogador coloca os seus navios e regista os tiros do oponente. 
+Antes do inicio do jogo, cada jogador coloca os seus navios nos quadros, alinhados horizontalmente ou verticalmente. 
+O numero de navios permitidos eh igual para ambos jogadores e os navios nao podem se sobrepor.

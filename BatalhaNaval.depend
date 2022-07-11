@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623356012 source:c:\users\tonyc\onedrive\documentos\projetos\c-c++\aula141_151-batalhanaval\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<time.h>
+	<fstream>
+
